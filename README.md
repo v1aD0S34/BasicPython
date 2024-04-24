@@ -18,7 +18,7 @@
 1. 🎥 [Лекция 8: Веб-разработка на питоне](https://youtu.be/A_8gLAbm2Qw) <br>
 1. 🎥 [Лекция 9: Асинхронность](https://youtu.be/ptisj8md_BA) <br>
 1. 🎥 [Лекция 10: NumPy](https://youtu.be/zmrMRF8Bdng) <br>
-
+1. 🎥 [Лекция 11: Pandas](https://youtu.be/QU5yYi2dUew) <br>
 ## 🔗 Материалы из лекций 
 
 [╭∩╮( •̀_•́ )╭∩╮](https://drive.google.com/drive/folders/1QS0-Hl-gtEpLiSpZjKwJS7dLNpsbP0l9?usp=sharing) <br>
