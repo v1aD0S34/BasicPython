@@ -19,6 +19,11 @@
 1. 🎥 [Лекция 9: Асинхронность](https://youtu.be/ptisj8md_BA) <br>
 1. 🎥 [Лекция 10: NumPy](https://youtu.be/zmrMRF8Bdng) <br>
 1. 🎥 [Лекция 11: Pandas](https://youtu.be/QU5yYi2dUew) <br>
+1. 🎥 [Лекция 12: MatPlotLib](https://youtu.be/Q08PxBHxcKY) <br>
+1. 🎥 [Лекция 13: Оптимизация программ](https://youtu.be/Yt5oB6s7gYk) <br>
+
+
+
 ## 🔗 Материалы из лекций 
 
 [╭∩╮( •̀_•́ )╭∩╮](https://drive.google.com/drive/folders/1QS0-Hl-gtEpLiSpZjKwJS7dLNpsbP0l9?usp=sharing) <br>
